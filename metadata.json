@@ -1,0 +1,7 @@
+{
+  "name": "Wayn?",
+  "description": "AI-powered social adventure app that turns anywhere into an adventure with missions, roulette, photo proof, and social quests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
